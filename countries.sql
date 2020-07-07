@@ -1,0 +1,1 @@
+insert into countries (id,name) values (1,'O`zbekiston');

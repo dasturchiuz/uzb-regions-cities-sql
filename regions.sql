@@ -1,0 +1,13 @@
+insert into regions (id,country_id,name) values (1,1,'Andijon viloyati');
+insert into regions (id,country_id,name) values (2,1,'Buxoro viloyati');
+insert into regions (id,country_id,name) values (3,1,'Qashqadaryo viloyati');
+insert into regions (id,country_id,name) values (4,1,'Qoraqalpog`iston respublikasi');
+insert into regions (id,country_id,name) values (5,1,'Navoiy viloyati');
+insert into regions (id,country_id,name) values (6,1,'Namangan viloyati');
+insert into regions (id,country_id,name) values (7,1,'Samarqand viloyati');
+insert into regions (id,country_id,name) values (8,1,'Sirdaryo viloyati');
+insert into regions (id,country_id,name) values (9,1,'Farg‘ona viloyati');
+insert into regions (id,country_id,name) values (10,1,'Toshkent viloyat');
+insert into regions (id,country_id,name) values (11,1,'Toshkent shahri');
+insert into regions (id,country_id,name) values (12,1,'Xorazm viloyati');
+insert into regions (id,country_id,name) values (13,1,'Jizzax viloyati');
